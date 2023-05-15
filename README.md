@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**shivangiigupta/shivangiigupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 # 💫 About Me:
 👩‍🔬 I'm a data analyst with a passion for using data to drive informed decisions. I have developed a strong foundation in data analysis, statistics, and programming, and I am eager to apply these skills in a real-world setting.<br>💬 Ask me about Data.<br>🌱 I’m currently learning Data Science.<br>🥇 Data Visualization: Matplotlib, Tableau, Power BI, Seaborn, GGPlot2, Plotly.Express.<br>👌 Data Preprocessing: NumPy, Pandas.<br>✍️ Integrated Development Environment: Jupyter-Notebook<br>📫 Reach me at shivangiigupta.sg@gmail.com
 
@@ -28,11 +26,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=shivangiigupta&limit=5&theme=onestar&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=shivangiigupta&icon=1&color=4)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
--->
