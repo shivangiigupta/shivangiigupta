@@ -2,9 +2,6 @@
 
 <!--
 **shivangiigupta/shivangiigupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 # 💫 About Me:
 👩‍🔬 I'm a data analyst with a passion for using data to drive informed decisions. I have developed a strong foundation in data analysis, statistics, and programming, and I am eager to apply these skills in a real-world setting.<br>💬 Ask me about Data.<br>🌱 I’m currently learning Data Science.<br>🥇 Data Visualization: Matplotlib, Tableau, Power BI, Seaborn, GGPlot2, Plotly.Express.<br>👌 Data Preprocessing: NumPy, Pandas.<br>✍️ Integrated Development Environment: Jupyter-Notebook<br>📫 Reach me at shivangiigupta.sg@gmail.com
 
